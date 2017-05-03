@@ -549,3 +549,15 @@ header {
 .navbar-collapse {
   text-align: center;
 }
+
+p {
+  font-size: 19px;
+}
+
+.large-p {
+  font-size: 30px;
+}
+
+.large-ul {
+  font-size: 20px;
+}
